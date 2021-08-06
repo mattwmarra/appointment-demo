@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/appointment-demo/static/css/main.8fdb6d94.chunk.css",
-    "main.js": "/appointment-demo/static/js/main.0550174d.chunk.js",
-    "main.js.map": "/appointment-demo/static/js/main.0550174d.chunk.js.map",
+    "main.css": "/appointment-demo/static/css/main.3b50f9f5.chunk.css",
+    "main.js": "/appointment-demo/static/js/main.f5689ac9.chunk.js",
+    "main.js.map": "/appointment-demo/static/js/main.f5689ac9.chunk.js.map",
     "runtime-main.js": "/appointment-demo/static/js/runtime-main.9598860f.js",
     "runtime-main.js.map": "/appointment-demo/static/js/runtime-main.9598860f.js.map",
     "static/css/2.658248ec.chunk.css": "/appointment-demo/static/css/2.658248ec.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.ec2bc553.chunk.js.map": "/appointment-demo/static/js/2.ec2bc553.chunk.js.map",
     "index.html": "/appointment-demo/index.html",
     "static/css/2.658248ec.chunk.css.map": "/appointment-demo/static/css/2.658248ec.chunk.css.map",
-    "static/css/main.8fdb6d94.chunk.css.map": "/appointment-demo/static/css/main.8fdb6d94.chunk.css.map",
+    "static/css/main.3b50f9f5.chunk.css.map": "/appointment-demo/static/css/main.3b50f9f5.chunk.css.map",
     "static/js/2.ec2bc553.chunk.js.LICENSE.txt": "/appointment-demo/static/js/2.ec2bc553.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9598860f.js",
     "static/css/2.658248ec.chunk.css",
     "static/js/2.ec2bc553.chunk.js",
-    "static/css/main.8fdb6d94.chunk.css",
-    "static/js/main.0550174d.chunk.js"
+    "static/css/main.3b50f9f5.chunk.css",
+    "static/js/main.f5689ac9.chunk.js"
   ]
 }
