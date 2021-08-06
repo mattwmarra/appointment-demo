@@ -92,6 +92,9 @@ function App() {
 
   return (
     <main className="page bg-white" id="petratings">
+      <div className="heading">
+        <h1 className="display-4">Lorem's Appointments</h1>
+      </div>
     <div className="container">
       <div className="row">
         <div className="col-md-12 bg-white">
